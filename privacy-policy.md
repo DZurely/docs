@@ -1,7 +1,7 @@
 
 **Privacy Policy: Double D Sdn Bhd (Zurely)**
 
-<span style="color: gray;">Last Updated: March 2026**</span>
+<span style="color: gray;">Last Updated: March 2026</span>
 
 **1\. Our Commitment**
 
