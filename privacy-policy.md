@@ -42,7 +42,4 @@ Under the PDPA, you have the right to:
 - **Data Portability**: Request a copy of your data in a structured, machine-readable format.
 
 ### 6. Contact Our Data Office
-If you have questions regarding this policy or wish to exercise your rights, please contact our designated administrator at:
-
-- **Email**: admin@zurely.my
-- **Address**: [Registered Office Address]
+If you have questions regarding this policy or wish to exercise your rights, please contact our designated administrator at: admin@zurely.my
