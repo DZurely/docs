@@ -1,6 +1,6 @@
 # Terms of Service (ToS)
 
-<span style="color: lightgray;">Last updated: February 2026</span>
+<span style="color: gray;">Last updated: February 2026</span>
 
 ### 1. Acceptance of Terms
 By accessing the Zurely platform (the "App"), you agree to be bound by these Terms of Service. If you do not agree, please discontinue use immediately. Double D Sdn Bhd ("we," "us," or "our") reserves the right to update these terms at any time.
