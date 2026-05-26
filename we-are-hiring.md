@@ -23,6 +23,6 @@ Remote Discipline: Proactive communicator who thrives in a distributed team envi
 Language Skills: Ability to collaborate seamlessly (clear written communication in English/Git is a must).
 
 ### 🚀 How to Apply:
-Please send an email to [career@zurely.my](career@zurely.my) with:
+Please send an email to [career@zurely.my](mailto:career@zurely.my) with:
 - Your updated Resume/CV.
 - A link to your GitHub profile or a portfolio showcasing real code/live applications you've built.
