@@ -26,7 +26,7 @@ Language Skills: Ability to collaborate seamlessly (clear written communication 
 
 ### 🚀 How to Apply:
 Please send a direct message to [career@zurely.my](career@zurely.my) with:
-Your updated Resume/CV.
-A link to your GitHub profile or a portfolio showcasing real code/live applications you've built.
+- Your updated Resume/CV.
+- A link to your GitHub profile or a portfolio showcasing real code/live applications you've built.
 
 Note: Independent individual developers only. No recruitment agencies or outsourcing firms, please.
