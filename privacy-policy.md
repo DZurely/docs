@@ -1,47 +1,51 @@
 
 # Privacy Policy: Double D Sdn Bhd (Zurely)
 
-<span style="color: gray;">Last Updated: March 2026</span>
+<span style="color: gray;">Last Updated: Augest 2026</span>
 
 ### 1\. Our Commitment
 
-Double D Sdn Bhd ("Zurely," "we," "us," or "our") is committed to protecting the personal data of our users in compliance with the Malaysian **Personal Data Protection Act (PDPA) 2010**, its **2024 Amendments**, the **Digital Signature Act 1997**, and the **Electronic Commerce Act 2006**. This policy explains how we collect, use, and protect your information within our digital tenancy ecosystem.
+Double D Sdn Bhd ("Zurely," "we," "us," or "our") is committed to protecting the personal data of our users in compliance with the Malaysian **Personal Data Protection Act (PDPA) 2010**, its **2024 Amendments**, and the **Electronic Commerce Act 2006**. This policy outlines how we collect, process, and safeguard your personal information within our digital tenancy ecosystem.
 
 ### 2\. Data We Collect
 
-To provide our secure stamping and verification services, we collect:
+To facilitate identity verification, agreement execution, and statutory stamping services, we collect:
 
 - **Identity Data**: Full name, NRIC/Passport number, and biometric data (Face Liveness) for e-KYC verification.
-- **Contact Data**: Phone number, email address, and residential address.
-- **Property & Tenancy Data**: Property addresses, rental amounts, and signed Tenancy Agreements.
-- **Financial Data**: Bank account details and proof of income (only where required for specific assessment features).
+- **Contact Data**: Phone number, residential address.
+- **Property & Tenancy Data**: Property addresses, rental terms/amounts, and executed Tenancy Agreements.
+- **Financial Data**: Bank account details (only where strictly necessary).
 
 ### 3\. Purpose of Processing
 
-We process your data for the following essential purposes:
+Your data is processed strictly for the following operational and statutory purposes:
 
-- **Identity Assurance**: Verifying identities via licensed e-KYC providers to prevent fraud and ensure non-repudiation.
-- **Legal Execution**: Facilitating digital signing under the Digital Signature Act 1997 to generate tamper-proof, legally fortified agreements.
-- **Regulatory Fulfillment**: Automating the secure transmission of data to relevant national authorities to ensure all tenancy documentation meets mandatory tax and legal requirements.
-- **Evidence Logging**: Maintaining an **Immutable Audit Log** to provide a verifiable "Chain of Trust" for all legal documents.
+- **Identity Assurance**: Authenticating identities via e-KYC to prevent impersonation and fraud.
+- **Legal Execution**: Facilitating digital execution under the Electronic Commerce Act 2006 to create tamper-evident, legally enforceable tenancy agreements.
+- **Regulatory Fulfillment**: Automating secure data submission to relevant national authorities to meet statutory tax and stamping requirements.
+- **Evidence Logging**: Maintaining an **Immutable Audit Log** to ensure an unalterable chain of trust and evidentiary validity for executed agreements.
 
-### 4\. Data Sharing, Retention & International Transfers
+### 4\. Data Sharing, Transfers & Retention
 
-We share data only with authorized entities necessary for service delivery:
+- **Authorized Third Parties:** We disclose personal data only to authorized entities necessary for service delivery, including statutory authorities and relevant government agencies. 
+- **Cross-Border Transfers**: Encrypted backups may be stored in secure jurisdictions exclusively for disaster recovery and business continuity, maintaining security standards equivalent to the Malaysian PDPA.
+- **Data Retention**: Transaction records, tenancy documents, and identity verification data are retained for **seven (7) years** to fulfill Malaysian statutory tax and regulatory audit obligations. Cryptographic metadata within our immutable logs is retained to preserve the long-term legal enforceability of digitally signed records.
 
-- **Regulatory Bodies:** Relevant government agencies and statutory authorities for the purpose of document validation and revenue assurance.
-- **Licensed Providers**: e-KYC and Certification Authorities (CAs) for digital certificates.
-- **International Transfers**: To ensure business continuity and disaster recovery, your encrypted personal data may be stored in secure backups in other jurisdictions. These transfers are strictly for disaster recovery purposes and are performed under encrypted protocols to ensure your data receives a level of protection equivalent to Malaysian standards.
-- **Retention**: We retain your personal and tenancy data for **seven (7) years** to comply with Malaysian tax and regulatory requirements. Metadata within our immutable logs is retained to preserve the long-term legal integrity of signed agreements.
+### 5\. Managing Your Data & Account Deletion
 
-### 5\. Your Rights
+We provide straightforward controls over your data within our platform:
+- **Profile Management**: You can review, update, or edit your personal profile information directly within the application.
+- **Account Deletion**: You can delete your account at any time via **Edit Profile -> Delete Account**. Initiating account deletion permanently removes your profile credentials and purges non-essential data.
+- **Statutory Exception**: Where an account is linked to completed transactions or executed tenancy agreements, underlying transaction data and immutable audit records will be retained for the mandatory statutory seven (7) year retention period, isolated strictly for audit and legal compliance.
 
-Under the PDPA, you have the following rights:
+### 6\. Your Statutory Rights
 
-- **Access & Correction**: Request a copy of your data or update inaccuracies.
-- **Consent Withdrawal**: Withdraw consent for processing (subject to legal or contractual obligations, such as active tenancies or tax laws).
-- **Data Portability**: Request your personal data in a structured, machine-readable format as per the 2024 Amendments.
+Under the PDPA (including the 2024 Amendments), you have the right to: 
 
-### 6\. Contact Our Data Office
+- **Access & Correction**: Request a copy of your personal data or request the correction of inaccurate records.
+- **Withdrawal of Consent**: Withdraw consent for future processing (subject to active contractual obligations and statutory retention requirements).
+- **Data Portability**: Request an export of your personal data in a structured, commonly used, and machine-readable format.
 
-If you have questions regarding this policy or wish to exercise your rights, please contact our Data Administrator at: [**admin@zurely.my**](mailto:admin@zurely.my)
+### 7\. Contact the Data Protection Office
+
+To exercise your statutory rights, submit inquiries, or request data management assistance, contact our Data Protection Officer at:[**dpo@zurely.my**](mailto:dpo@zurely.my)
