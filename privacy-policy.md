@@ -12,7 +12,7 @@ Double D Sdn Bhd ("Zurely," "we," "us," or "our") is committed to protecting the
 To facilitate identity verification, agreement execution, and statutory stamping services, we collect:
 
 - **Identity Data**: Full name, NRIC/Passport number, and biometric data (Face Liveness) for e-KYC verification.
-- **Contact Data**: Phone number, residential address.
+- **Contact Data**: Phone number and residential address.
 - **Property & Tenancy Data**: Property addresses, rental terms/amounts, and executed Tenancy Agreements.
 - **Financial Data**: Bank account details (only where strictly necessary).
 
@@ -48,4 +48,4 @@ Under the PDPA (including the 2024 Amendments), you have the right to:
 
 ### 7\. Contact the Data Protection Office
 
-To exercise your statutory rights, submit inquiries, or request data management assistance, contact our Data Protection Officer at:[**dpo@zurely.my**](mailto:dpo@zurely.my)
+To exercise your statutory rights, submit inquiries, or request data management assistance, contact our Data Protection Officer at: [**dpo@zurely.my**](mailto:dpo@zurely.my)
