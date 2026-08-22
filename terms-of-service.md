@@ -1,7 +1,7 @@
 
 # Terms of Service: Double D Sdn Bhd (Zurely)
 
-<span style="color: gray;">Last Updated: Auguest 2026</span>
+<span style="color: gray;">Last Updated: August 2026</span>
 
 ### 1\. Acceptance of Terms
 
